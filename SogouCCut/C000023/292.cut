@@ -1,0 +1,42 @@
+　 　 在 北京 、 上海 、 广州 等 大城市 生活 着 这样 一群 年轻人 ， 他们 来自 中 、 小城镇 ， 却 没有 所在地 户口 ， 一般 受过 高中 （ 中专 、 职业高中 ） 以上 教育 ， 大部分 有 专科 以上学历 ， 收入 不高 ， 却 依然 坚守 在 大城市 。 他们 被 称为 “ 普通 城市 流动 知青 ” 。 
+ 
+ 
+ 
+ 
+ 你 怎么 看待 “ 普通 城市 流动 知青 ” ？ 
+ 
+ 1 、 你 认为 流动 知青 群体 产生 的 最 重要 原因 是 ： 
+ 
+ 社会 流动 加剧 
+ 
+ 大学生 分配制度 取消 及 大学 扩招 
+ 
+ 个人 自由选择 空间 增大 
+ 
+ 国人 思想观念 的 开放     
+ 
+ 2 、 你 认为 流动 知青 的 社会 地位 如何 ？ 
+ 
+ 现在 不高 ， 但 肯定 会 越来越 好 
+ 
+ 这个 群体 很难 成为 社会 主流 
+ 
+ 比上不足 ， 比下有余 
+ 
+ 无法 作 整体 估计 ， 每个 人 的 未来 不 一样     
+ 
+ 3 、 你 是否 愿意 为 改变 自己 的 生活状况 而 成为 流动 知青 ？ 
+ 
+ 很 羡慕 ， 有 机会 愿意 尝试 
+ 
+ 佩服 他们 的 拼搏精神 ， 但 不会 加入 
+ 
+ 不 值得 ， 不如 在家 过 安稳 的 生活 
+ 
+ 不 愿意 ， 但 别无选择     
+ 
+           
+ var   NewWin   =   null ;   function   WinOpen ( url )   { if ( ! NewWin   | |   NewWin . closed )   { NewWin = LoadWin ( url , ' win _ poll ' , 418 , 300 ) ; } else { NewWin . focus ( ) ; } }   function   LoadWin ( url ,   name ,   width ,   height )   { var   str = ' scrollbars , resizable , location , height = ' + height + ' , innerHeight = ' + height + ' , width = ' + width + ' , innerWidth = ' + width ;   if ( window . screen )   { var   ah = screen . availHeight - 30 ;   var   aw = screen . availWidth - 10 ;   var   xc = ( aw - width ) / 2 ;   var   yc = ( ah - height ) / 2 ;   str   + = ' , left = ' + xc + ' , screenX = ' + xc ;   str   + = ' , top = ' + yc + ' , screenY = ' + yc ; }   return   window . open ( url , name , str ) ;   } 
+ 
+ & nbsp ; & nbsp ;   本次 调查 由 中国青年报 委托 搜狐 文化频道 进行 ， 调查结果 将 登载 在 4 月 6 日 的 中国青年报 上 。 
+ 多谢 各位 网友 的 投票 ！
